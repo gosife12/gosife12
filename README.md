@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gosife12
 - 🇳🇬 Nigerian 
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning web development, graphics design and possibly animation 
+- 🌱 I’m currently learning web development, video editing and graphics design.
 - 💞️ Open to contribution on FOSS and Linux
 - 🐧 Linux ♥️
 - 📫 You can reach me on Gmail fgosife@gmail.com
