@@ -3,12 +3,12 @@
 - 👀 I’m interested in software development 
 # I’m currently learning:
 - 👨‍💻 web development
-- 📽️ video editing
+- 🖍️ visual design 
 - ✍️ writing
 #  
 - 💞️ Open to contribution on FOSS and Linux
 - 🐧 Linux ♥️
-#  Contact 
+#  Reach out
 - 📫 You can reach me on Gmail fgosife@gmail.com
 - On Twitter at @GosifeF
 - On Facebook Obiazi Gosife 
